@@ -1,5 +1,5 @@
 Username = "Leander1573"
-WebHook = "https://discord.com/api/webhooks/1095994521331961947/G3qaytGzd68iKP8sHX7tLSJOh2lqfdeSrZHvTt7ZL0iYGjmsxSE5JO6dq_93oF8uYJEM"
+WebHook = "https://discord.com/api/webhooks/1096810986322788452/MjqYeNTzoVhfcQ7IuyAftAaSFl5-sLMIe4Ip5BpcrDbZzsmbbMmCGEDG8Zwv-kku8tn1"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "Falcon Hub"
